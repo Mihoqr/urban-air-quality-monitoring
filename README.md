@@ -4,7 +4,8 @@ This project simulates air quality sensor data in an urban setting. It uses Pyth
 
 ## Project Info
 - Subject: Application Development and Emerging Technologies
-- Name: Michelle Joi Quesada | Dennis Myles San Pascual
+- Group Name: AIRSENSES
+- Section: H3101
 - Date: May 2025
 
 ## What the Code Does
