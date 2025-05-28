@@ -22,3 +22,6 @@ The script randomly creates 100 data records with:
 - `generate_air_quality_data.py`: Python script that creates the data
 - `urban_air_quality_data.csv`: The output as a spreadsheet
 - `urban_air_quality_data.json`: The same output but in JSON format
+
+## Smart Contract Data Storage Worksheet
+https://docs.google.com/document/d/1UYKxNKXZDQY1DoxwUV7QAz-TM9gSvekoT0ko6bDe28Y/edit?usp=sharing
